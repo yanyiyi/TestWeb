@@ -1,0 +1,62 @@
+#banner {
+            width: 960px;
+            height: 67px;
+            background-image: url(../img/web_banner.png);
+        }
+        
+        #linkhere {
+            width: 960px;
+            height: 40px;
+        }
+        
+        #mainimg {
+            width: 960px;
+            height: 433px;
+            background-image: url(../img/web_cover.png);
+        }
+        
+        .btn {
+            width: 210px;
+            height: 40px;
+            display: block;
+            float: left;
+            text-indent: -10000px;
+        }
+        
+        #b1 {
+            margin-left: 60px;
+            background-image: url(../img/web_about.png);
+        }
+        
+        #b2 {
+            background-image: url(../img/web_works.png);
+        }
+        
+        #b3 {
+            background-image: url(../img/web_reserve.png);
+        }
+        
+        #b4 {
+            background-image: url(../img/web_contact%20us.png);
+            margin-right: 60px;
+        }
+        #main {
+            width: 960px;
+            margin-left: auto;
+            margin-right: auto;
+            background-color: white;
+            -webkit-box-shadow: 0px 2px 11px 1px rgba(92,20,53,0.7);
+-moz-box-shadow: 0px 2px 11px 1px rgba(92,20,53,0.7);
+box-shadow: 0px 2px 11px 1px rgba(92,20,53,0.7);
+            margin-top: 0px;
+        }
+        body{
+            background-color: blanchedalmond;
+            padding: 0px;
+        }
+        #footer{
+            height: 100px;
+            text-align: center;
+            padding-top: 25px;
+            color: #731d00; 
+        }
